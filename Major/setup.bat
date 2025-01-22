@@ -1,5 +1,5 @@
 @echo off
-title name Bot
+title Major Bot
 color 0A
 
 cd ..
@@ -14,7 +14,7 @@ if exist node_modules (
 :MENU
 cls
 echo =================================================================
-echo    name BOT SETUP AND RUN SCRIPT
+echo    Major BOT SETUP AND RUN SCRIPT
 echo =================================================================
 echo.
 echo Current directory: %CD%
